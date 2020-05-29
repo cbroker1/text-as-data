@@ -3,6 +3,8 @@
 
 Week 1 - INTRODUCTION TO TEXT AS DATA
 
+What is 'Document Frequency Matrix' and what is it used for? 
+
 WEEK 2 - TEXT PRE-PROCESSING
 
 WEEK 3 - GETTING DATA AND APIS
