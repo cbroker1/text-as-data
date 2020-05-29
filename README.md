@@ -1,11 +1,6 @@
 # text-as-data
 ## Graduate school course in Natural Language Processing - weekly assignments.
 
-
-# Machine-Learning-and-Nerual-Networks
-
-## Semester-long graduate school class, taken at Johns Hopkins University - weekly assignment descriptions below.
-
 Week 1 - INTRODUCTION TO TEXT AS DATA
 
 WEEK 2 - TEXT PRE-PROCESSING
