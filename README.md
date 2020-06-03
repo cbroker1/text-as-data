@@ -5,7 +5,7 @@ Week 1 - Introduction To Text As Data
 
   What is 'Document Frequency Matrix' and what is it used for? 
 
-WEEK 2 - Text Pre-Processing
+WEEK 2 - Text Pre-Processing (current week! 6/2/20)
 
 WEEK 3 - Getting Data And APIs
 
