@@ -23,6 +23,6 @@ Week 9 - Supervised Classification Models
 
 Week 10 - Unsupervised Learning Methods
 
-Week 11: Word Embeddings
+Week 11 - Word Embeddings
 
-Week 12: Course Project Submission
+Week 12 - Course Project Submission
