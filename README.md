@@ -6,6 +6,8 @@
 
 Week 2 - Text Pre-Processing (current week! 6/2/20)
 
+- Cleaning data.
+
 Week 3 - Getting Data And APIs
 
 Week 4 - Methods AND Models
