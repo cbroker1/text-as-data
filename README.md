@@ -3,7 +3,7 @@
 
 [Week 1 - Introduction To Text As Data](https://github.com/cbroker1/text-as-data/blob/master/Assignments/TAD_Week_1_Broker_Carl.ipynb)
 
-What is 'Document Frequency Matrix' and what is it used for? 
+- What is a 'Document Frequency Matrix' and what is it used for?
 
 Week 2 - Text Pre-Processing (current week! 6/2/20)
 
