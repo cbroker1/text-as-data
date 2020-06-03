@@ -5,24 +5,24 @@ Week 1 - Introduction To Text As Data
 
 What is 'Document Frequency Matrix' and what is it used for? 
 
-WEEK 2 - Text Pre-Processing (current week! 6/2/20)
+Week 2 - Text Pre-Processing (current week! 6/2/20)
 
-WEEK 3 - Getting Data And APIs
+Week 3 - Getting Data And APIs
 
-WEEK 4 - Methods AND Models
+Week 4 - Methods AND Models
 
-WEEK 5 - Dictionary-Based Methods
+Week 5 - Dictionary-Based Methods
 
-WEEK 6 - Topic Models
+Week 6 - Topic Models
 
-WEEK 7 - Supervised Learning Models
+Week 7 - Supervised Learning Models
 
-WEEK 8 - Unsupervised Learning/Clustering
+Week 8 - Unsupervised Learning/Clustering
 
-WEEK 9 - Supervised Classification Models
+Week 9 - Supervised Classification Models
 
-WEEK 10 - Unsupervised Learning Methods
+Week 10 - Unsupervised Learning Methods
 
-WEEK 11: Word Embeddings
+Week 11: Word Embeddings
 
-WEEK 12: Course Project Submission
+Week 12: Course Project Submission
