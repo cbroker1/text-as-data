@@ -1,4 +1,3 @@
-# text-as-data
 ## Graduate school course in Natural Language Processing - weekly assignments.
 
 [Week 1 - Introduction To Text As Data](https://github.com/cbroker1/text-as-data/blob/master/Assignments/TAD_Week_1_Broker_Carl.ipynb)
