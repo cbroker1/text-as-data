@@ -6,7 +6,7 @@
 
 Week 2 - Text Pre-Processing (current week! 6/2/20)
 
-- Cleaning data.
+- Exploring best practices when pre-processing text data.
 
 Week 3 - Getting Data And APIs
 
