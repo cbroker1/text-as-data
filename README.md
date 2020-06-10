@@ -4,11 +4,11 @@
 
 - What is a 'Document Frequency Matrix' and what is it used for?
 
-Week 2 - Text Pre-Processing (current week! 6/2/20)
+Week 2 - Text Pre-Processing
 
 - Exploring best practices when pre-processing text data.
 
-Week 3 - Getting Data And APIs
+Week 3 - Getting Data And APIs (current week 6/10/20)
 
 Week 4 - Methods AND Models
 
