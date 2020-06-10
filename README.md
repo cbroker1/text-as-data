@@ -6,7 +6,7 @@
 
 Week 2 - Text Pre-Processing
 
-- Exploring best practices when pre-processing text data.
+- Exploring best practices when pre-processing text data: tf-idf, tokenization, stop-words, stemming, etc.
 
 Week 3 - Getting Data And APIs (current week 6/10/20)
 
