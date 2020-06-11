@@ -4,7 +4,7 @@
 
 - What is a 'Document Frequency Matrix' and what is it used for?
 
-Week 2 - Text Pre-Processing
+[Week 2 - Text Pre-Processing](https://github.com/cbroker1/text-as-data/blob/master/Assignments/TAD_Week_2_Broker_Carl.ipynb)
 
 - Exploring best practices when pre-processing text data: tf-idf, tokenization, stop-words, stemming, etc.
 
