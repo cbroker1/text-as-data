@@ -10,6 +10,8 @@
 
 Week 3 - Getting Data And APIs (current week 6/10/20)
 
+- Taught self how to use 3 APIs: Steam, Facebook and Twitter 
+
 Week 4 - Methods AND Models
 
 Week 5 - Dictionary-Based Methods
