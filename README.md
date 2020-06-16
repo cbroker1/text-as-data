@@ -10,7 +10,7 @@
 
 Week 3 - Getting Data And APIs (current week 6/10/20)
 
-- Taught self how to use 4 APIs: NYT, Steam, Facebook and Twitter. Used NYT API to preform a sentiment analysis on 6-months-worth of headlines via pytorch.
+- Exploring the use of 4 APIs: NYT, Steam, Facebook and Twitter. Used NYT API to preform a sentiment analysis on 6-months-worth of headlines via pytorch.
 
 Week 4 - Methods AND Models
 
