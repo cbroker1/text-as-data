@@ -8,7 +8,7 @@
 
 - Exploring best practices when pre-processing text data: tf-idf, tokenization, stop-words, stemming, etc.
 
-Week 3 - Getting Data And APIs (current week 6/10/20)
+[Week 3 - Getting Data and APIs](https://github.com/cbroker1/text-as-data/blob/master/Assignments/TAD_Week_3_Broker_Carl_2_of_2.ipynb)
 
 - Exploring the use of 4 APIs: NYT, Steam, Facebook and Twitter. Used NYT API to preform a sentiment analysis on 6-months-worth of headlines via pytorch.
 
