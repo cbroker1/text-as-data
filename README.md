@@ -12,7 +12,9 @@
 
 - Exploring the use of 4 APIs: NYT, Steam, Facebook and Twitter. Used NYT API to preform a sentiment analysis on 6-months-worth of headlines via pytorch.
 
-Week 4 - Methods AND Models
+[Week 4 - Methods AND Models](https://github.com/cbroker1/text-as-data/blob/master/Assignments/TAD_Week_4_Broker_Carl.ipynb)
+
+- Exploring regex and various models.
 
 Week 5 - Dictionary-Based Methods
 
