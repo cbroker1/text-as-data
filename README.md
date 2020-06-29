@@ -16,7 +16,9 @@
 
 - Exploring regex and various models.
 
-Week 5 - Dictionary-Based Methods
+[Week 5 - Dictionary-Based Methods](https://github.com/cbroker1/text-as-data/blob/master/Assignments/TAD_Week_5_Broker_Carl.ipynb)
+
+- Sentiment Analysis, Hyper-Parameter Tuning, Training Dataset Selection
 
 Week 6 - Topic Models
 
