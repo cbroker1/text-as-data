@@ -1,0 +1,24 @@
+# local package
+-e .
+
+# external requirements
+click
+Sphinx
+coverage
+awscli
+flake8
+python-dotenv>=0.5.1
+ipython==7.15.0
+json==2.0.9
+numpy==1.18.5
+tqdm==4.46.1
+plotly==4.8.1
+pandas==1.0.4
+sys==3.8.3
+sklearn==0.0
+seaborn==0.10.1
+pyLDAvis 2.1.2
+matplotlib==3.2.2
+spacy==2.3.0
+nltk==3.5
+genism==3.8.3

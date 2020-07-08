@@ -1,0 +1,32 @@
+---
+### Data Dictionary:
+
+- Response:
+    - success - 1 if the query was successful
+    - query_summary - Returned in the first request
+        - recommendationid - The unique id of the recommendation
+        - author
+            - steamid - the user’s SteamID
+            - um_games_owned - number of games owned by the user
+            - num_reviews - number of reviews written by the user
+            - playtime_forever - lifetime playtime tracked in this app
+            - playtime_last_two_weeks - playtime tracked in the past two weeks for this app
+            - playtime_at_review - playtime when the review was written
+            - last_played - time for when the user last played
+        - language - language the user indicated when authoring the review
+        - review - text of written review
+        - timestamp_created - date the review was created (unix timestamp)
+        - timestamp_updated - date the review was last updated (unix timestamp)
+        - voted_up - true means it was a positive recommendation
+        - votes_up - the number of users that found this review helpful
+        - votes_funny - the number of users that found this review funny
+        - weighted_vote_score - helpfulness score
+        - comment_count - number of comments posted on this review
+        - steam_purchase - true if the user purchased the game on Steam
+        - received_for_free - true if the user checked a box saying they got the app for free
+        - written_during_early_access - true if the user posted this review while the game was in Early Access
+        - developer_response - text of the developer response, if any
+        - timestamp_dev_responded - Unix timestamp of when the developer responded, if applicable
+
+---
+Source: https://partner.steamgames.com/doc/store/getreviews
