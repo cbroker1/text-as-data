@@ -20,6 +20,8 @@ from pandas import json_normalize
 
 #set variables
 url_base = 'https://store.steampowered.com/appreviews/393380?json=1&filter=updated&language=all&review_type=all&purchase_type=all&num_per_page=100&cursor='
+working_dir = os.getcwd()
+output_dir = working_dir[:-8]+"data/raw/game_reviews_raw.csv"
 
 #first pass
 url = urllib.request.urlopen("https://store.steampowered.com/appreviews/393380?json=1&filter=updated&language=all&review_type=all&purchase_type=all&num_per_page=100&cursor=*")
@@ -39,11 +41,11 @@ while True:
     next_cursor = next_cursor.replace('+', '%2B')
     df2 = json_normalize(data['reviews'])
     df1 = pd.concat([df1, df2])
-    print(next_cursor)
+    print(next_cursor)   
     if next_cursor == 'AoJ44PCp0tECd4WXSw==' or next_cursor == '*': #stopcursor
         df_game_reviews = df1
         df1 = None
-        df_game_reviews.to_csv(r'../data/raw/game_reviews_raw.csv', index=False)
+        df_game_reviews.to_csv(output_dir, index=False)
         print('All finished! Check raw data directory for output.')
         break
         
