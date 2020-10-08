@@ -20,16 +20,18 @@
 
 - Sentiment Analysis, Hyper-Parameter Tuning, Training Dataset Selection
 
-Week 6 - Topic Models
+[Week 6 - Topic Models](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_Week_6_Broker_Carl.ipynb)
 
-Week 7 - Supervised Learning Models
+- Exploring topic models 
 
-Week 8 - Unsupervised Learning/Clustering
+[Week 7 - Supervised Learning Models](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_Week_7_Broker_Carl.ipynb)
 
-Week 9 - Supervised Classification Models
+[Week 8 - Unsupervised Learning/Clustering](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_Week_8_Broker_Carl.ipynb)
 
-Week 10 - Unsupervised Learning Methods
+[Week 9 - Supervised Classification Models](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_Week_9_Broker_Carl.ipynb)
 
-Week 11 - Word Embeddings
+[Week 10 - Unsupervised Learning Methods](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_Week_10_Broker_Carl.ipynb)
 
-Week 12 - Course Project Submission
+[Week 11 - Word Embeddings](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_Week_11_Broker_Carl.ipynb)
+
+[Week 12 - Course Project Submission](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_FINAL_PROJECT_Broker_Carl.ipynb)
